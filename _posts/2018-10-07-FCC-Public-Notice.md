@@ -2,11 +2,11 @@
 layout: post
 title: FCC issues Public Notice DA 18-980
 ---
-I told you it wasn't wise to talk about polotics, obviously that didn't last long.
+I told you it wasn't wise to talk about politics, obviously that didn't last long.
 
 The FCC has released a [Public Notice DA 18-980](https://docs.fcc.gov/public/attachments/DA-18-980A1.pdf). 
 
-The short version of this notice is that VHF/UHF radio can not be imported, sold, advertised, or operated in the US without first being authorized by the FCC. Meaning, unless the FCC has not approved these radios, they must not be sold in the US.
+The short version of this notice is that VHF/UHF radios can not be imported, sold, advertised, or operated in the US without first being authorized by the FCC. Meaning, unless the FCC has not approved these radios, they must not be sold in the US.
 The primary target of this notice seems to be the popular Baofeng radios and other cheaper similar radios from China. If you're not aware. These radios are an cost effective option for many ham radio
 operators. Most handheld VHF/UHF radios are still very expensive. Most are over the $100 mark and some can be over $300 or $400!
 
@@ -46,3 +46,14 @@ using them where they shouldn't is more than heavy handed. Combine this with the
 [FCC Notice](https://www.jpole-antenna.com/wp-content/uploads/2018/10/DA-18-980A1.pdf)
 
 [Another QRZ article](http://qrznow.com/baofeng-ban-will-regulate-amateur-operators/)
+
+## more on enforcement
+
+A friend of mine in an email exchange said the following that brings up another valid point here 
+
+"...I'm not even sure how they'd go about enforcing this.  I don't think they could.  Sure, they could crack down on the sales side of things.  They could probably also spot check gear when they go to sites for interference complaints.  But what are they going to do, knock on every door in the country checking for radios and setup roadblocks to check vehicles for mobiles?"
+
+To which my reply was this video
+
+<iframe seamless="seamless" style="width: 100%; border: none; display: block; max-width: 768px; height: 600px;" src="https://getyarn.io/yarn-clip/embed/8cce3bb6-6033-48c5-826a-28b6dfe2d35f?autoplay=false"> </iframe>
+
