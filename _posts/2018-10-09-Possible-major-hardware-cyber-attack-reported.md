@@ -8,9 +8,16 @@ These articles are always scary to see especially when you use these services ev
 
 The real concern is where these boards were manufactured and who is possibly behind the attack, China.
 
-Today [Bloomberg reported new evidence of hacked hardware found](https://www.bloomberg.com/news/articles/2018-10-09/new-evidence-of-hacked-supermicro-hardware-found-in-u-s-telecom). 30 companies are claimed to be compromised and where these boards have been used is equally expansive including sensitive locations.
+Today [Bloomberg reported new evidence of hacked hardware found](https://www.bloomberg.com/news/articles/2018-10-09/new-evidence-of-hacked-supermicro-hardware-found-in-u-s-telecom). 30 companies are claimed to be compromised and where these boards have been used is equally expansive including sensitive locations such as US inteligence agencies and other government purposes.
 
-Stay tuned as I update this post with more info this evening.
+Update: October 10th, 2018
+
+A lot has come out with this and I'd be negligent if I didn't include the fact that the response from many of the organizations involved, including Amazon and Apple, have specifically 
+stated that these claims are false and they are not aware of any threat, investigation, and that no such devices were found. 
+
+The problem here is the lack of evidence presented by the author in these articles, combined with the denials, it's anyone's guess on where the truth lies.
+
+We'll have to keep a much closer eye on this to see what's going on.
 
 
 
