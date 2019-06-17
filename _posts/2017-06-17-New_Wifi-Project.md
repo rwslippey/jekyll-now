@@ -4,7 +4,7 @@ title: WiFi Overhaul 2019
 ---
 Good, Better, Best for WiFi in the home.
 Here are my three options for recommendations. Its a little heavier on the wallet then most homes, but it's designed with the larger home and the bar in mind.
-===Good===
+##Good
 Access points (TWO):
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=roberslipppho-20&language=en_US&marketplace=amazon&region=US&placement=B015PR20GY&asins=B015PR20GY&linkId=b30e4803369078e5b0544312083e98aa&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -15,7 +15,7 @@ or
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=roberslipppho-20&language=en_US&marketplace=amazon&region=US&placement=B00LV8YZLK&asins=B00LV8YZLK&linkId=9f826675ffa38fc6ce30983817d966c4&show_border=true&link_opens_in_new_window=true"></iframe>
 
-===Better===
+##Better
 
 Acess points (SAME AS ABOVE, BUT GET 3):
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=roberslipppho-20&language=en_US&marketplace=amazon&region=US&placement=B015PR20GY&asins=B015PR20GY&linkId=b30e4803369078e5b0544312083e98aa&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -23,7 +23,7 @@ Acess points (SAME AS ABOVE, BUT GET 3):
 Router (USG Get 1)
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=roberslipppho-20&language=en_US&marketplace=amazon&region=US&placement=B00LV8YZLK&asins=B00LV8YZLK&linkId=9f826675ffa38fc6ce30983817d966c4&show_border=true&link_opens_in_new_window=true"></iframe>
 
-===Best===
+##Best
 
 Going all out on WiFi would equal:
 Access Points (two):
@@ -31,22 +31,3 @@ Access Points (two):
 
 Router (USG Get 1):
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=roberslipppho-20&language=en_US&marketplace=amazon&region=US&placement=B00LV8YZLK&asins=B00LV8YZLK&linkId=9f826675ffa38fc6ce30983817d966c4&show_border=true&link_opens_in_new_window=true"></iframe>
-
-
-[Github Pages Here](https://pages.github.com/) for more info, we'll do a post on that in the future. Oh, [checkout this handy markdown cheat sheet too!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-So I'm up and running! Part of me feels like I've met my quota for the day with the above, but that'd be pretty boring for anyone out there so here is a brief intro to what I'm up to.
-
-I finally bought an Arduino! Better late than never, I guess. I'm still making the LED blink for fun but I'm really looking forward to a project I have coming up soon to put the Arduino to work, I've got a bit of reading to do before I get into that though.
-
-The Arduino sparked another idea but never really stayed with the Arduino. I've always wanted one of those whole home audio system, where you can listen to music in pretty much any room of the house, but I didn't wanted to be limited to just one audio source. I'd like to be able to pipe all sorts of different things into it. Of most interest was being able to have multiple different sources going to different zones/rooms all at once. So my wife could be listening to one thing in one room and me another. Ditto to my daughter. Anyway, I was thinking of using the Arduino as a controlling mechanism but later settled on a different path. The Arduino might still be used for some I/O though going forward. Still working out the cracks and pops as I just got the speakers in today.
-
-In coding I'm really trying to sit down and solidly learn a language for  once. I took to PHP years ago but never stuck with it. I learned enough and was able to do some cool stuff but got away from it and now I'm back looking for more. I think Python will be the next one I learn. I've got way too many project ideas and think Pyhton might be good for them there.
-
-In Radio, I haven't done much aside from get a 40 meter dipole in the air, FINALLY. I've only been in our new home since March. And I managed to get a Arrow J Pole on the chimney at the same time, but I haven't even transmitted from it yet... that was like 3 weeks ago too.
-
-For SDR, I've actually just started playing with ADSB again. I lived in an apartment that felt like it was in an RF hole for several years before buying our home so I might be running a little crazy with the projects now that I've got room to do what I want. Right now I'm just playing around with SDR and looking into building another antenna and maybe picking up a different SDR receiver here soon.
-
-Well, that turned into a crazy list. We'll see how far along I get. I think I might make it a point to start posting these ideas/brainstorms going forward and see how far down the list I might get.
-
-Hopefully you're not completely bored by this point and look forward to seeing you all when the next one comes out!
