@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!... at least that's what they tell me...
+title: WiFi Overhaul 2019
 ---
 Good, Better, Best for WiFi in the home.
 Here are my three options for recommendations. Its a little heavier on the wallet then most homes, but it's designed with the larger home and the bar in mind.
