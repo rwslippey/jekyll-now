@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Critical WordPress backdrop warning issued
+title: WordPress Critical attack warning issued
 ---
 A [warning has been posted by WordFence](https://www.wordfence.com/blog/2019/08/ongoing-malvertising-campaign-continues-exploiting-new-vulnerabilities/) regarding attacks targeted at WordPress websites. 
 
